@@ -2,6 +2,7 @@ $primary-color: #BD2C2C;
 $footer-text-color: #ffffff;
 
 
+
 // #BD2C2C;
 
 body{font-family:'Open Sans', sans-serif;background-color: #e5e5e5;}
@@ -77,15 +78,38 @@ h4,h5,h6{font-family:'Open Sans', sans-serif;text-transform:uppercase;font-weigh
 }
 /*Footer CSS End*/
 
-.PeppyCodes-Dark-Section {background-color: lighten($primary-color, 5%); h2,h5 {color: #ffffff;}} /*#DA391B*/
+.PeppyCodes-Dark-Section-Course {background-color: lighten($primary-color, 5%);
+h1,h2,h5 {color: #ffffff;}
+h1 {font-size: 400%;border-bottom-width: .15em;
+border-bottom-style: solid;
+display: inline-block;
+position: relative;
+width: 50%;
+} h5{font-size: 100%;}} /*#DA391B*/
 
+.PeppyCodes-Grey-Section-Course {h2 {color: lighten($primary-color, 5%)} p {color: #777777;font-size: .9rem;}
+h1 {color: $primary-color;font-size: 400%;border-bottom-width: .15em;
+border-bottom-style: solid;
+display: inline-block;
+position: relative;
+width: 50%;
+} h5{font-size: 60%;}}
+
+.PeppyCodes-Light-Section-Course {background-color: lighten($primary-color, 50%);
+h1 {font-size: 400%;border-bottom-width: .15em;
+border-bottom-style: solid;
+display: inline-block;
+position: relative;
+width: 50%;
+} h5{font-size: 100%;} } /*#DA391B*/
+
+.PeppyCodes-Dark-Section {background-color: lighten($primary-color, 5%); h2,h5 {color: #ffffff;}} /*#DA391B*/
 
 .PeppyCodes-Grey-Section {h2 {color: $primary-color;} p {color: #777777;font-size: .9rem;}}
 
+.PeppyCodes-Light-Section {background-color: lighten($primary-color, 50%); } /*#DA391B*/
 
-
-
-
+  
 /*Hamburger Menu*/
 
 .dropdown.menu .submenu {

@@ -94,9 +94,7 @@ h4, h5, h6 {
   .PeppyCodes-Dark-Section-Course h1, .PeppyCodes-Dark-Section-Course h2, .PeppyCodes-Dark-Section-Course h5 {
     color: #ffffff; }
   .PeppyCodes-Dark-Section-Course h1 {
-    font-size: 400%;
-    border-bottom-width: .15em;
-    border-bottom-style: solid;
+    font-size: 350%;
     display: inline-block;
     position: relative;
     width: 50%; }
@@ -111,9 +109,7 @@ h4, h5, h6 {
   font-size: .9rem; }
 .PeppyCodes-Grey-Section-Course h1 {
   color: #BD2C2C;
-  font-size: 400%;
-  border-bottom-width: .15em;
-  border-bottom-style: solid;
+  font-size: 350%;
   display: inline-block;
   position: relative;
   width: 50%; }
@@ -123,9 +119,7 @@ h4, h5, h6 {
 .PeppyCodes-Light-Section-Course {
   background-color: #fbeded; }
   .PeppyCodes-Light-Section-Course h1 {
-    font-size: 400%;
-    border-bottom-width: .15em;
-    border-bottom-style: solid;
+    font-size: 350%;
     display: inline-block;
     position: relative;
     width: 50%; }

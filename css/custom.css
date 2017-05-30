@@ -136,8 +136,11 @@ h4, h5, h6 {
 .PeppyCodes-Grey-Section h2 {
   color: #BD2C2C; }
 .PeppyCodes-Grey-Section p {
-  color: #777777;
-  font-size: .9rem; }
+  color: #8e3d3d;
+  font-size: 1rem; }
+.PeppyCodes-Grey-Section a {
+  color: #fd3e3e;
+  font-weight: bold; }
 
 .PeppyCodes-Light-Section {
   background-color: #fbeded; }
